@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentCommunication</string>
+    <string name="instruction1">Instruction:\nPlease enter data and submit to\nFragment 2:</string>
+    <string name="instruction2">Instruction:\nPlease enter data and submit to\nFragment 1:</string>
+    <string name="hint">Enter data here</string>
+    <string name="submit">Submit</string>
+    <string name="label">Received Data:</string>
+    <string name="empty">No data received yet</string>
+</resources>
