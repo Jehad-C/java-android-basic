@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="home">Home Fragment</string>
+    <string name="call">Call Fragment</string>
+    <string name="settings">Settings Fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
