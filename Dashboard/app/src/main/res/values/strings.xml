@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="product1">Product 1\nActivity</string>
+    <string name="product2">Product 2\nActivity</string>
+    <string name="product3">Product 3\nActivity</string>
+    <string name="product4">Product 4\nActivity</string>
+    <string name="product5">Product 5\nActivity</string>
+    <string name="product6">Product 6\nActivity</string>
+</resources>
